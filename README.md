@@ -16,8 +16,10 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 
 ## Clases y Ayudantías
 | Tipo | Número | Tema | Fecha | Grabación | Material |
-| Clase | 0 | Introducción | 16/08 | |
-| Taller | 0 | Introducción a C | 18/09 | |
+| :--: | :--: | :--: | :--: | :--: | :--: |
+| Clase | 0 | Introducción | 16/08 | | |
+| Taller | 0 | Introducción a C | 18/09 | (Grabación)[https://youtu.be/lQ8NsfGNsbU]| |
+
    
 ## Equipo
 
