@@ -17,7 +17,7 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 ## Clases y Ayudantías
 | Tipo | Número | Tema | Fecha | Grabación | Material |
 | :--: | :--: | :--: | :--: | :--: | :--: |
-| Clase | 0 | Introducción | 16/08 | | |
+| Clase | 0 | Introducción | 16/08 | [Grabación](https://zoom.us/rec/play/4Q-fdL42jF7WKViVCu0SozPYzsXy2FXQJZ2iRKCQ9frqUzNHpTDD7JhRf-ZrJkql4ONAGi5GOIqftfOy.2ebROmMFplDFBb_h?continueMode=true&_x_zm_rtaid=i1JMy9qXQi2UnTUbCZE3wg.1629665339504.2319da3fbb4ac84c3129cec48313e29b&_x_zm_rhtaid=875) | |
 | Taller | 0 | Introducción a C | 18/09 | [Grabación](https://youtu.be/lQ8NsfGNsbU)| [Repo taller](https://github.com/IIC2133-PUC/Taller0)|
 
    
@@ -28,7 +28,7 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 | Nombre               |  Sección         |  Email         |
 |:-------------------- |:--------------|:--------------|
 | Yadran Eterovic | 1 | yadran@ing.puc.cl |
-| Martín Muñoz | 2 | mmunos@uc.cl |
+| Martín Muñoz | 2 | mmunos@ing.puc.cl |
 
 
 ### Ayudantes
