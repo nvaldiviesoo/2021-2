@@ -20,7 +20,8 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 | Clase | 0 | Introducción | 16/08 | [Grabación Zoom](https://zoom.us/rec/play/4Q-fdL42jF7WKViVCu0SozPYzsXy2FXQJZ2iRKCQ9frqUzNHpTDD7JhRf-ZrJkql4ONAGi5GOIqftfOy.2ebROmMFplDFBb_h?continueMode=true&_x_zm_rtaid=i1JMy9qXQi2UnTUbCZE3wg.1629665339504.2319da3fbb4ac84c3129cec48313e29b&_x_zm_rhtaid=875) [YouTube](https://youtu.be/UUzeO7Eoz7o) | |
 | Taller | 0 | Introducción a C | 18/09 | [Grabación](https://youtu.be/lQ8NsfGNsbU)| [Repo taller](https://github.com/IIC2133-PUC/Taller0)|
 | Taller | 1 | Continuación Taller introductorio a C | 20/08 | [Grabación](https://youtu.be/xtqvCs1v83k) ||  
-| Clase | 1 | Selection Sort y Correctitud | 23/08 | [Grabación](https://www.youtube.com/watch?v=0ZnIxyX3FzU)| |
+| Clase | 1 | Selection Sort y Correctitud | 23/08 | [Grabación](https://www.youtube.com/watch?v=0ZnIxyX3FzU)| [Diapos](https://github.com/IIC2133-PUC/2021-2/tree/master/Clases/01.%20Selection%20e%20Insertion%20sort.pdf) |
+| Clase | 2 | Insertion Sort y Sorting | 25/08 | [Grabación](https://youtu.be/GHnOuCCqoSI)| [Diapos](https://github.com/IIC2133-PUC/2021-2/tree/master/Clases/01.%20Selection%20e%20Insertion%20sort.pdf) |
    
 ## Equipo
 
