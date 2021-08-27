@@ -38,8 +38,21 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 | Nombre                | Email       | Github |
 |:--------------------- |:-------------| :---------|
 | Carlos Paredes | cparedesr@uc.cl | [@CarloGauss33](https://www.github.com/CarloGauss33)|
-
-
+| Ignacio Bascuñan | nachobascar@uc.cl | [@Nachobascar](https://github.com/nachobascar)|
+| Cristobal Berrios | CrisBerriosL | [@CrisBerriosL](https://www.github.com/CrisBerriosL)|
+| Cristian Alonso Carrasco | cristian.carrasco@uc.cl | |
+| Sergio Matamala | matamalaappels@uc.cl | [@Huasito-Appel](https://www.github.com/Huasito-Appel)|
+| Agustin Rios | arios6@uc.cl | [@agustin-rios](https://www.github.com/agustin-rios)|
+| Fernando Torres | fernando.torres@uc.cl | [@FdoTorres1](https://www.github.com/FdoTorres1)|
+| Ziqi Yan | zyan@uc.cl | [@chineseJack564](https://www.github.com/chineseJack564)|
+| Ignacion Zuñiga | inzuniga@uc.cl ||
+| Tanya Garrido | tcgarrido@uc.cl | [@tcgarrido](https://www.github.com/tcgarrido)
+| Nicholas Mc-Donnell | namcdonnell@uc.cl | [@N9199](https://www.github.com/N9199)|
+| Nicolás Fraga | nfraga@uc.cl | [@nfragav](https://www.github.com/nfragav)|
+| Felipe Lois | fplois@uc.cl| [@fplois](https://www.github.com/fplois)|
+| José Tomas Jimenez | josejimenez@uc.cl | [@josejimenezp](https://www.github.com/josejimenezp)|
+| Sergio Gutierrez ECHENIQUE | sergio.gutierrez@uc.cl | [@sgutgar](https://www.github.com/sgutgar)|
+| Ignacio Porte | ignacio.porte@uc.cl | [@IgnacioPorte](https://www.github.com/IgnacioPorte)|
 
 ## Evaluación
 
