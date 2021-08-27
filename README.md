@@ -39,7 +39,7 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 |:--------------------- |:-------------| :---------|
 | Carlos Paredes | cparedesr@uc.cl | [@CarloGauss33](https://www.github.com/CarloGauss33)|
 | Ignacio Bascuñan | nachobascar@uc.cl | [@Nachobascar](https://github.com/nachobascar)|
-| Cristobal Berrios | CrisBerriosL | [@CrisBerriosL](https://www.github.com/CrisBerriosL)|
+| Cristobal Berrios | crisberrios@uc.cl | [@CrisBerriosL](https://www.github.com/CrisBerriosL)|
 | Cristian Alonso Carrasco | cristian.carrasco@uc.cl | |
 | Sergio Matamala | matamalaappels@uc.cl | [@Huasito-Appel](https://www.github.com/Huasito-Appel)|
 | Agustin Rios | arios6@uc.cl | [@agustin-rios](https://www.github.com/agustin-rios)|
@@ -51,7 +51,7 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 | Nicolás Fraga | nfraga@uc.cl | [@nfragav](https://www.github.com/nfragav)|
 | Felipe Lois | fplois@uc.cl| [@fplois](https://www.github.com/fplois)|
 | José Tomas Jimenez | josejimenez@uc.cl | [@josejimenezp](https://www.github.com/josejimenezp)|
-| Sergio Gutierrez ECHENIQUE | sergio.gutierrez@uc.cl | [@sgutgar](https://www.github.com/sgutgar)|
+| Sergio Gutierrez | sergio.gutierrez@uc.cl | [@sgutgar](https://www.github.com/sgutgar)|
 | Ignacio Porte | ignacio.porte@uc.cl | [@IgnacioPorte](https://www.github.com/IgnacioPorte)|
 
 ## Evaluación
