@@ -23,7 +23,7 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 | Clase | 1 | Selection Sort y Correctitud | 23/08 | [Grabación](https://www.youtube.com/watch?v=0ZnIxyX3FzU)| [Diapos](https://github.com/IIC2133-PUC/2021-2/tree/master/Clases/01.%20Selection%20e%20Insertion%20sort.pdf) |
 | Clase | 2 | Insertion Sort y Sorting | 25/08 | [Grabación](https://youtu.be/GHnOuCCqoSI)| [Diapos](https://github.com/IIC2133-PUC/2021-2/tree/master/Clases/01.%20Selection%20e%20Insertion%20sort.pdf) |
 | Ayudantía | 1 | Selection Sort, Insertion Sort y Correctitud | 27/08 | [Grabación](https://youtu.be/9WW-VoADRnM)| [Diapos](https://github.com/IIC2133-PUC/2021-2/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%201%20-%20Repaso%20ordenaci%C3%B3n/Ayudantia_1.pdf) |
-| Clase | 2 | Dividir y Conquistar | 30/08 | | [Diapos](https://github.com/IIC2133-PUC/2021-2/tree/master/Clases/03.%20nergeSort%20y%20dividir%20para%20reinar.pdf) |
+| Clase | 2 | Dividir y Conquistar | 30/08 | | [Diapos](https://github.com/IIC2133-PUC/2021-2/tree/master/Clases/03.%20mergeSort%20y%20dividir%20para%20reinar.pdf) |
 ## Equipo
 
 ### Profesores
