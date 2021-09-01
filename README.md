@@ -24,7 +24,7 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 | Clase | 2 | Insertion Sort y Sorting | 25/08 | [Grabación](https://youtu.be/GHnOuCCqoSI)| [Diapos](https://github.com/IIC2133-PUC/2021-2/tree/master/Clases/01.%20Selection%20e%20Insertion%20sort.pdf) |
 | Ayudantía | 1 | Selection Sort, Insertion Sort y Correctitud | 27/08 | [Grabación](https://youtu.be/9WW-VoADRnM)| [Diapos](https://github.com/IIC2133-PUC/2021-2/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%201%20-%20Repaso%20ordenaci%C3%B3n/Ayudantia_1.pdf) |
 | Clase | 3 | MergeSort & Dividir y Conquistar | 30/08 | [Grabación](https://youtu.be/D9z7PmqJdOY) | [Diapos](https://github.com/IIC2133-PUC/2021-2/tree/master/Clases/03.%20mergeSort%20y%20dividir%20para%20reinar.pdf) |
-| Clase | 4 | Median y Quicksort | 01/09 | [Grabación](https://youtu.be/Y8NZRtP-c3A) | [Diapos](https://github.com/IIC2133-PUC/2021-2/tree/master/Clases/03.%20mergeSort%20y%20dividir%20para%20reinar.pdf) |
+| Clase | 4 | Median y Quicksort | 01/09 | [Grabación](https://youtu.be/Y8NZRtP-c3A) | [Diapos](https://github.com/IIC2133-PUC/2021-2/tree/master/Clases/04.%20Quicksort.pdf) |
 ## Equipo
 
 ### Profesores
