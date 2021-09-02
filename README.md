@@ -66,9 +66,9 @@ Habrá 3 interrogaciones, donde se evaluarán los aspectos más teóricos del co
 
 | Evaluación | Fecha |
 |:----------|:----------|
-| Interrogación 1 |  |
-| Interrogación 2 |  |
-| Interrogación 3 |  |
+| Interrogación 1 |13/09/2021|
+| Interrogación 2 |08/10/2021|
+| Interrogación 3 |11/12/2021|
 
 
 ### Tareas
