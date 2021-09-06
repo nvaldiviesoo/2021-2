@@ -26,6 +26,7 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 | Clase | 3 | MergeSort & Dividir y Conquistar | 30/08 | [Grabación](https://youtu.be/D9z7PmqJdOY) | [Diapos](https://github.com/IIC2133-PUC/2021-2/tree/master/Clases/03.%20mergeSort%20y%20dividir%20para%20reinar.pdf) |
 | Clase | 4 | Median y Quicksort | 01/09 | [Grabación](https://youtu.be/Y8NZRtP-c3A) | [Diapos](https://github.com/IIC2133-PUC/2021-2/tree/master/Clases/04.%20Quicksort.pdf) |
 | Ayudantía | 2 | Mergesort, Quicksort | 03/09 | [Grabación](https://youtu.be/g-wWa9AJlR4)| [Diapos](https://github.com/IIC2133-PUC/2021-2/blob/master/Ayudantías/Ayudantía%202%20-%20MergeSort%20y%20QuickSort/Ayudantía%202%20Solución.pdf)
+| Clase | 5 | Propiedades Quicksort | 06/09 | [Grabación](https://youtu.be/F_tL0DyvRZw) | [Diapos](https://github.com/IIC2133-PUC/2021-2/blob/master/Clases/04.%20quicksort-propiedades.pdf) |
 ## Equipo
 
 ### Profesores
@@ -48,7 +49,7 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 | Agustin Rios | arios6@uc.cl | [@agustin-rios](https://www.github.com/agustin-rios)|
 | Fernando Torres | fernando.torres@uc.cl | [@FdoTorres1](https://www.github.com/FdoTorres1)|
 | Ziqi Yan | zyan@uc.cl | [@chineseJack564](https://www.github.com/chineseJack564)|
-| Ignacion Zuñiga | inzuniga@uc.cl ||
+| Ignacion Zuñiga | inzuniga@uc.cl | [@inzuniga](https://www.github.com/inzuniga)|
 | Tanya Garrido | tcgarrido@uc.cl | [@tcgarrido](https://www.github.com/tcgarrido)
 | Nicholas Mc-Donnell | namcdonnell@uc.cl | [@N9199](https://www.github.com/N9199)|
 | Nicolás Fraga | nfraga@uc.cl | [@nfragav](https://www.github.com/nfragav)|
