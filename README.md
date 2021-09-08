@@ -27,7 +27,7 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 | Clase | 4 | Median y Quicksort | 01/09 | [Grabación](https://youtu.be/Y8NZRtP-c3A) | [Diapos](https://github.com/IIC2133-PUC/2021-2/tree/master/Clases/04.%20Quicksort.pdf) |
 | Ayudantía | 2 | Mergesort, Quicksort | 03/09 | [Grabación](https://youtu.be/g-wWa9AJlR4)| [Diapos](https://github.com/IIC2133-PUC/2021-2/blob/master/Ayudantías/Ayudantía%202%20-%20MergeSort%20y%20QuickSort/Ayudantía%202%20Solución.pdf) |
 | Clase | 5 | Propiedades Quicksort | 06/09 | [Grabación](https://youtu.be/F_tL0DyvRZw) | [Diapos](https://github.com/IIC2133-PUC/2021-2/blob/master/Clases/04.%20quicksort-propiedades.pdf) |
-| Ayudantía | 3 | Repaso I1 - Correctitud & Complejidad | 08/09 | [Grabación](https://youtu.be/6UKZplckFJc)| [Diapos](https://github.com/IIC2133-PUC/2021-2/blob/master/Ayudantías/Ayudantía%20Repaso%20I1%20-%20Correctitud%20&%20Complejidad/Ayudantía%20Repaso%20I1%20-%20Correctitud%20&%20Complejidad.pdf) |
+| Ayudantía | 3 | Repaso I1 - Correctitud & Complejidad | 08/09 | [Grabación](https://youtu.be/6UKZplckFJc)| [Diapos](https://github.com/IIC2133-PUC/2021-2/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%203%20-%20Correctitud%20%26%20Complejidad/Ayudant%C3%ADa%203%20-%20Correctitud%20%26%20Complejidad.pdf) |
 ## Equipo
 
 ### Profesores
