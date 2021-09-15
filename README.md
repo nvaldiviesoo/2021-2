@@ -29,6 +29,7 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 | Clase | 5 | Propiedades Quicksort | 06/09 | [Grabación](https://youtu.be/F_tL0DyvRZw) | [Diapos](https://github.com/IIC2133-PUC/2021-2/blob/master/Clases/04.%20quicksort-propiedades.pdf) |
 | Ayudantía | 3 | Repaso I1 - Correctitud & Complejidad | 08/09 | [Grabación](https://youtu.be/6UKZplckFJc)| [Diapos](https://github.com/IIC2133-PUC/2021-2/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%203%20-%20Correctitud%20%26%20Complejidad/Ayudant%C3%ADa%203%20-%20Correctitud%20%26%20Complejidad.pdf) |
 | Ayudantía | 3.1 | Repaso I1 - Mergesort, Quicksort | 10/09 | [Grabación](https://www.youtube.com/watch?v=IV24fsleDjA)| [Diapos](https://github.com/IIC2133-PUC/2021-2/tree/master/Ayudant%C3%ADas/Ayudantia%203.1%20-%20Repaso%20I1%20MergeSort%20y%20QuickSort) |
+| Clase | 6 | Arboles Binarios de Busqueda | 15/09 | [Grabación](https://youtu.be/Yx-a6GBHOzg) | [Diapos](https://github.com/IIC2133-PUC/2021-2/blob/master/Clases/06.%20A%CC%81rboles%20Binarios%20de%20Bu%CC%81squeda.pdf) |
 ## Equipo
 
 ### Profesores
