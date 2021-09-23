@@ -84,6 +84,11 @@ Habrá 3 interrogaciones, donde se evaluarán los aspectos más teóricos del co
 
 Habrá 4 tareas de programación en C, donde deberán resolver un problema complejo y analizarlo en un informe escrito. 
 
+| Evaluación | Fecha Entrega |
+|:----------|:----------|
+| Tarea 0 |09/09/2021|
+| Tarea 1 |07/10/2021|
+
 La nota final del curso se calcula de la siguiente manera:
 
 ```c++
