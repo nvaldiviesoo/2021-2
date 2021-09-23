@@ -11,9 +11,9 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
  * [Política de Integridad Académica](#política-de-integridad-académica)
 
 
-## Curso de C
-[Into a C por Vicente Errázuriz y Raúl Álvarez](https://github.com/DCCentral-de-Apuntes/intro-C)
-
+## Talleres
+[Intro a C por Vicente Errázuriz y Raúl Álvarez](https://github.com/DCCentral-de-Apuntes/intro-C)
+[Capsula de Debugging en GDB](https://youtu.be/RNfVQQEUoMQ)
 ## Clases y Ayudantías
 | Tipo | Número | Tema | Fecha | Grabación | Material |
 | :--: | :--: | :--: | :--: | :--: | :--: |
