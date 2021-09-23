@@ -12,8 +12,9 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 
 
 ## Talleres
-[Intro a C por Vicente Errázuriz y Raúl Álvarez](https://github.com/DCCentral-de-Apuntes/intro-C)
-[Capsula de Debugging en GDB](https://youtu.be/RNfVQQEUoMQ)
+- [Intro a C por Vicente Errázuriz y Raúl Álvarez](https://github.com/DCCentral-de-Apuntes/intro-C)
+
+- [Capsula de Debugging en GDB](https://youtu.be/RNfVQQEUoMQ)
 ## Clases y Ayudantías
 | Tipo | Número | Tema | Fecha | Grabación | Material |
 | :--: | :--: | :--: | :--: | :--: | :--: |
