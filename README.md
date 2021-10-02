@@ -38,6 +38,7 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 | Clase | 8 | Arboles 2-3 | 22/09 | [Grabación](https://youtu.be/qQgajdIlyF4) | [Diapos](https://github.com/IIC2133-PUC/2021-2/blob/master/Clases/8.%20%C3%81rboles%202-3.pdf) |
 | Clase | 9 | Segment Tree | 22/09 | [Grabación](https://youtu.be/L_Tm99CLpK4) | [Diapos](https://github.com/IIC2133-PUC/2021-2/blob/master/Clases/09.%20Segment%20Tree.pdf) |
 | Clase | 10 | Segment Tree | 29/09 | [Grabación](https://youtu.be/DEHH9Kjq0oM) | [Diapos](https://github.com/IIC2133-PUC/2021-2/blob/master/Clases/09.%20Segment%20Tree.pdf) |
+| Ayudantia | 5 | Segment Tree | 01/10 | [Grabación](https://youtu.be/_wmnp8vEmf0) | [Diapos](https://github.com/IIC2133-PUC/2021-2/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%205%20-%20Segmentation%20Tree/Ayudant%C3%ADa%205.pdf) |
 
 
 ## Equipo
