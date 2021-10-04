@@ -39,7 +39,7 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 | Clase | 9 | Segment Tree | 22/09 | [Grabación](https://youtu.be/L_Tm99CLpK4) | [Diapos](https://github.com/IIC2133-PUC/2021-2/blob/master/Clases/09.%20Segment%20Tree.pdf) |
 | Clase | 10 | Segment Tree | 29/09 | [Grabación](https://youtu.be/DEHH9Kjq0oM) | [Diapos](https://github.com/IIC2133-PUC/2021-2/blob/master/Clases/09.%20Segment%20Tree.pdf) |
 | Ayudantia | 5 | Segment Tree | 01/10 | [Grabación](https://youtu.be/_wmnp8vEmf0) | [Diapos](https://github.com/IIC2133-PUC/2021-2/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%205%20-%20Segmentation%20Tree/Ayudant%C3%ADa%205.pdf) |
-| Clase | 11 | Tablas de Hash | 04/10 | [Grabación]() | [Diapos](https://github.com/IIC2133-PUC/2021-2/blob/master/Clases/10.%20hashTables.pdf) |
+| Clase | 11 | Tablas de Hash | 04/10 | [Grabación](https://youtu.be/Z-kmML0D-Yk) | [Diapos](https://github.com/IIC2133-PUC/2021-2/blob/master/Clases/10.%20hashTables.pdf) |
 
 
 ## Equipo
