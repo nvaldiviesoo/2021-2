@@ -41,6 +41,7 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 | Ayudantia | 5 | Segment Tree | 01/10 | [Grabación](https://youtu.be/_wmnp8vEmf0) | [Diapos](https://github.com/IIC2133-PUC/2021-2/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%205%20-%20Segmentation%20Tree/Ayudant%C3%ADa%205.pdf) |
 | Clase | 11 | Tablas de Hash | 04/10 | [Grabación](https://youtu.be/Z-kmML0D-Yk) | [Diapos](https://github.com/IIC2133-PUC/2021-2/blob/master/Clases/10.%20hashTables.pdf) |
 
+| Clase | 12 | Funciones de Hash | 06/10 | [Grabación](https://www.youtube.com/watch?v=Bez86b00HIo) | [Diapos](https://github.com/IIC2133-PUC/2021-2/blob/master/Clases/10.%20hashTables.pdf) |
 
 ## Equipo
 
