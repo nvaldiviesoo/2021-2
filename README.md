@@ -19,6 +19,7 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 ## Capsulas Tareas
 - [Capsula Component Tree](https://youtu.be/VX3g0Xj4cv0)
 - [Comparacion de Imagenes](https://github.com/IIC2133-PUC/2021-2/tree/master/Tareas/scripts/T1)
+- [Explicación Filtro Alpha](https://www.youtube.com/watch?v=EIDHJpLwCH4)
 ## Clases y Ayudantías
 | Tipo | Número | Tema | Fecha | Grabación | Material |
 | :--: | :--: | :--: | :--: | :--: | :--: |
