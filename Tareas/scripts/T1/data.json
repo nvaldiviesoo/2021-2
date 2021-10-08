@@ -1,0 +1,42 @@
+[
+    {
+        "name": "eyeleash",
+        "limits": {"min-difference": 0.08, "max-difference": 0.25}
+    },   
+    {
+        "name": "plant",
+        "limits": {"min-difference": 36, "max-difference": 40}
+    },
+    {
+        "name": "sans",
+        "limits": {"min-difference": 0.08, "max-difference": 0.25}
+    },
+    {
+        "name": "rio",
+        "limits": {"min-difference": 0.08, "max-difference": 0.25}
+    },
+    {
+        "name": "brain",
+        "limits": {"min-difference": 0.08, "max-difference": 0.25}
+    },
+    {
+        "name": "camera",
+        "limits": {"min-difference": 0.035, "max-difference": 0.15}
+    },
+    {
+        "name": "mona",
+        "limits": {"min-difference": 35, "max-difference": 39}
+    },
+    {
+        "name": "nachito",
+        "limits": {"min-difference": 0.06, "max-difference": 0.25}
+    },
+    {
+        "name": "campus",
+        "limits": {"min-difference": 0.08, "max-difference": 0.25}
+    },
+    {
+        "name": "cara",
+        "limits": {"min-difference": 0.035, "max-difference": 0.15}
+    }
+]
