@@ -44,6 +44,8 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 | Clase | 11 | Tablas de Hash | 04/10 | [Grabación](https://youtu.be/Z-kmML0D-Yk) | [Diapos](https://github.com/IIC2133-PUC/2021-2/blob/master/Clases/10.%20hashTables.pdf) |
 | Clase | 12 | Funciones de Hash | 06/10 | [Grabación](https://www.youtube.com/watch?v=Bez86b00HIo) | [Diapos](https://github.com/IIC2133-PUC/2021-2/blob/fbdbe1b2eb42f2865c0a2ef2b45cf343177aacc4/Clases/10.5%20Funciones%20de%20Hash%20(EXTRA).pdf) |
 | Ayudantía | 6 | Hash | 08/10 | [Grabación](https://youtu.be/CM7NW-E_oy4) | [Diapos](https://github.com/IIC2133-PUC/2021-2/tree/master/Ayudant%C3%ADas/Ayudant%C3%ADa%206%20-%20Hash) |
+| Clase | 13 | Backtracking | 13/10 | [Grabación]() | [Diapos](https://github.com/IIC2133-PUC/2021-2/blob/master/Clases/11.%20Backtracking.pdf) |
+
 
 ## Equipo
 
