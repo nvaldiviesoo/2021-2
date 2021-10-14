@@ -101,6 +101,7 @@ Habrá 4 tareas de programación en C, donde deberán resolver un problema compl
 |:----------|:----------|
 | Tarea 0 |09/09/2021|
 | Tarea 1 |07/10/2021|
+| Tarea 2 |04/11/2021|
 
 La nota final del curso se calcula de la siguiente manera:
 
