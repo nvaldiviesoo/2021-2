@@ -16,10 +16,15 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 
 - [Capsula de Debugging en GDB](https://youtu.be/RNfVQQEUoMQ)
 
-## Capsulas Tareas
+## Material Tareas
+
+### Tarea 1
 - [Capsula Component Tree](https://youtu.be/VX3g0Xj4cv0)
 - [Comparacion de Imagenes](https://github.com/IIC2133-PUC/2021-2/tree/master/Tareas/scripts/T1)
 - [Explicación Filtro Alpha](https://www.youtube.com/watch?v=EIDHJpLwCH4)
+
+### Tarea 2
+- [Tests y scripts de verificacion](https://github.com/IIC2133-PUC/2021-2/tree/master/Tareas/scripts/T2)
 ## Clases y Ayudantías
 | Tipo | Número | Tema | Fecha | Grabación | Material |
 | :--: | :--: | :--: | :--: | :--: | :--: |
