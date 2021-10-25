@@ -28,7 +28,7 @@ def get_score(input_file, output_file):
     for query_id in range(query_ammount):
         query = f_input.readline().strip().split(" ")[1]
         indices = f_output.readline().strip().split(" ")
-        obtained_substring = original_string[int(indices[0]):int(indices[1])]
+        obtained_substring = original_string[int(indices[0]):int(indices[1])-1]
         result = check_solve(query, obtained_substring)
         if result:
             passed+=1
