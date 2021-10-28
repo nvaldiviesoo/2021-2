@@ -51,7 +51,10 @@ Bienvenido al sitio web del curso de Estructuras de Datos y Algoritmos. En esta 
 | Ayudantía | 6 | Hash | 08/10 | [Grabación](https://youtu.be/CM7NW-E_oy4) | [Diapos](https://github.com/IIC2133-PUC/2021-2/tree/master/Ayudant%C3%ADas/Ayudant%C3%ADa%206%20-%20Hash) |
 | Clase | 13 | Backtracking | 13/10 | [Grabación](https://youtu.be/NcUpXxZdodQ) | [Diapos](https://github.com/IIC2133-PUC/2021-2/blob/master/Clases/11.%20Backtracking.pdf) |
 | Ayudantía | 7 | Backtracking | 15/10 | [Grabación](https://youtu.be/x8Rw9IzCr_4) | [Diapos](https://github.com/IIC2133-PUC/2021-2/blob/master/Ayudant%C3%ADas/Ayudant%C3%ADa%207%20-%20Backtracking/Ayudant%C3%ADa%207%20-%20Backtracking.pdf) |
-| Clase | 14 | Heaps | 25/10 | [Grabación](https://youtu.be/rRpZbmlmpDU) | [Diapos](https://github.com/IIC2133-PUC/2021-2/blob/master/Clases/12.%20heaps&sets.pdf) |
+| Clase | 14 | Heaps | 25/10 | [Grabación](https://youtu.be/rRpZbmlmpDU) | [Diapos](https://github.com/IIC2133-PUC/2021-2/blob/eb8a3938caf7d106e1870f37ec67c3b331356b4d/Clases/12%20Heaps%20&%20DSU.pdf) |
+| Clase | 15 | Heaps & Sets | 28/10 | [Grabación](https://youtu.be/kcR3vBXO0_Y) | [Diapos](https://github.com/IIC2133-PUC/2021-2/blob/eb8a3938caf7d106e1870f37ec67c3b331356b4d/Clases/12%20Heaps%20&%20DSU.pdf) |
+
+
 
 ## Equipo
 
